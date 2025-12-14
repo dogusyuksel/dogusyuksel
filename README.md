@@ -1,3 +1,15 @@
+<h1 align="center">Dogus Yuksel</h1>
+
+<p align="center">
+Embedded Software & Firmware Engineer • Space, IoT & Linux Systems
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded-Engineer-blue" />
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-green" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20Linux%20%7C%20IoT-orange" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dogus-yuksel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4304146) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@atbulucu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dogusyuk@gmail.com) 
