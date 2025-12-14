@@ -1,24 +1,24 @@
 ### 🔧 Technical Expertise
 
-**Languages:** <span style="color:#f34b7d">`C`</span>, <span style="color:#f34b7d">`C++`</span>, <span style="color:#3572A5">`Python`</span>, <span style="color:#89e051">`Bash`</span>  
+**Languages:** ![C](https://img.shields.io/badge/C-expert-red) ![C++](https://img.shields.io/badge/C++-solid-blue) ![Python](https://img.shields.io/badge/Python-proficient-yellow) ![Bash](https://img.shields.io/badge/Bash-skilled-green)  
 
-**Embedded Platforms:** <span style="color:#0176b6">`STM32 (F1/F2/F3/F4)`</span>, <span style="color:#e535ab">`ESP32`</span>, <span style="color:#e535ab">`ESP8266`</span>, <span style="color:#f0c808">`ATmega328P`</span>, <span style="color:#0070BB">`TI CC26xx`</span>  
+**Embedded Platforms:** ![STM32](https://img.shields.io/badge/STM32-F1%2FF2%2FF3%2FF4-blueviolet) ![ESP32](https://img.shields.io/badge/ESP32-experienced-orange) ![ESP8266](https://img.shields.io/badge/ESP8266-experienced-orange) ![ATmega328P](https://img.shields.io/badge/ATmega328P-skilled-lightgrey) ![TI CC26xx](https://img.shields.io/badge/TI%20CC26xx-skilled-lightblue)  
 
-**RTOS & HAL:** <span style="color:#ff6f61">`FreeRTOS`</span>, <span style="color:#6f42c1">`STM32 HAL`</span>, <span style="color:#2c3e50">`Bare-metal`</span>  
+**RTOS & HAL:** ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-proficient-red) ![STM32 HAL](https://img.shields.io/badge/STM32_HAL-experienced-purple) ![Bare-metal](https://img.shields.io/badge/Bare--metal-skilled-darkgrey)  
 
-**Linux & Build:** <span style="color:#563d7c">`Yocto`</span>, <span style="color:#d73a49">`BitBake`</span>, <span style="color:#f34b7d">`GCC`</span>, <span style="color:#6f42c1">`Make`</span>, <span style="color:#e535ab">`CMake`</span>  
+**Linux & Build:** ![Yocto](https://img.shields.io/badge/Yocto-proficient-darkblue) ![BitBake](https://img.shields.io/badge/BitBake-experienced-red) ![GCC](https://img.shields.io/badge/GCC-proficient-red) ![Make](https://img.shields.io/badge/Make-skilled-purple) ![CMake](https://img.shields.io/badge/CMake-experienced-orange)  
 
-**Debugging & Testing:** <span style="color:#f0c808">`GDB`</span>, <span style="color:#ff6f61">`Valgrind`</span>, <span style="color:#2c3e50">`DMalloc`</span>, <span style="color:#3572A5">`Ceedling`</span>  
+**Debugging & Testing:** ![GDB](https://img.shields.io/badge/GDB-skilled-yellow) ![Valgrind](https://img.shields.io/badge/Valgrind-proficient-red) ![DMalloc](https://img.shields.io/badge/DMalloc-skilled-darkgrey) ![Ceedling](https://img.shields.io/badge/Ceedling-experienced-blue)  
 
-**Protocols & Interfaces:** <span style="color:#0070BB">`UART/USART`</span>, <span style="color:#0176b6">`SPI`</span>, <span style="color:#e535ab">`I2C`</span>, <span style="color:#f34b7d">`CAN`</span>, <span style="color:#563d7c">`Modbus`</span>, <span style="color:#6f42c1">`DMA`</span>  
+**Protocols & Interfaces:** ![UART](https://img.shields.io/badge/UART/USART-skilled-blue) ![SPI](https://img.shields.io/badge/SPI-skilled-lightblue) ![I2C](https://img.shields.io/badge/I2C-skilled-purple) ![CAN](https://img.shields.io/badge/CAN-skilled-red) ![Modbus](https://img.shields.io/badge/Modbus-skilled-darkgrey) ![DMA](https://img.shields.io/badge/DMA-skilled-purple)  
 
-**IoT & Networking:** <span style="color:#2c3e50">`IPv4/IPv6`</span>, <span style="color:#ff6f61">`BLE`</span>, <span style="color:#3572A5">`TR-069`</span>, <span style="color:#89e051">`OBD-II`</span>  
+**IoT & Networking:** ![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-skilled-darkgrey) ![BLE](https://img.shields.io/badge/BLE-skilled-red) ![TR-069](https://img.shields.io/badge/TR--069-skilled-blue) ![OBD-II](https://img.shields.io/badge/OBD--II-skilled-green)  
 
-**DevOps & Tooling:** <span style="color:#f0c808">`Docker`</span>, <span style="color:#0070BB">`CI/CD`</span>, <span style="color:#e535ab">`GitHub`</span>, <span style="color:#f34b7d">`JIRA`</span>, <span style="color:#6f42c1">`Scrum`</span>  
+**DevOps & Tooling:** ![Docker](https://img.shields.io/badge/Docker-proficient-yellow) ![CI/CD](https://img.shields.io/badge/CI--CD-skilled-blue) ![GitHub](https://img.shields.io/badge/GitHub-proficient-purple) ![JIRA](https://img.shields.io/badge/JIRA-skilled-red) ![Scrum](https://img.shields.io/badge/Scrum-skilled-orange)  
 
-**Hardware & Sensors:** <span style="color:#ff6f61">`PCB Design (Altium)`</span>, <span style="color:#3572A5">`Sensors`</span>, <span style="color:#0176b6">`Cameras`</span>, <span style="color:#2c3e50">`Embedded Peripherals`</span>  
+**Hardware & Sensors:** ![PCB](https://img.shields.io/badge/PCB_Design(Altium)-skilled-red) ![Sensors](https://img.shields.io/badge/Sensors-skilled-blue) ![Cameras](https://img.shields.io/badge/Cameras-skilled-lightblue) ![Embedded Peripherals](https://img.shields.io/badge/Embedded_Peripherals-skilled-purple)  
 
-**ML & Image Processing:** <span style="color:#89e051">`Keras`</span>, <span style="color:#f34b7d">`CNNs`</span>, <span style="color:#563d7c">`Synthetic Data Generation`</span>  
+**ML & Image Processing:** ![Keras](https://img.shields.io/badge/Keras-skilled-green) ![CNNs](https://img.shields.io/badge/CNNs-proficient-red) ![Synthetic Data](https://img.shields.io/badge/Synthetic_Data_Generation-skilled-purple)  
 
 <p align="center">
 <b>💡 Combining embedded, Linux, and ML expertise for real-world IoT and space systems</b>
